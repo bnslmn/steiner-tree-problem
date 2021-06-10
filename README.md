@@ -28,9 +28,9 @@ L'interface graphique SteinerDiskGraphs pops up, enjoy !
 ## Author
 
 ### Code
-Amine Benslimane, 
-  https://github.com/bnslmn
-  Amine.Benslimane@etu.sorbonne-universite.fr
+Amine Benslimane, https://github.com/bnslmn
+
+Any suggestions ? ==> Amine.Benslimane@etu.sorbonne-universite.fr
   
 Master STL, Sorbonne Université, 
 Mai 2021.
