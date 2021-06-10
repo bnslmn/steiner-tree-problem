@@ -1,27 +1,38 @@
-# Arbre de Steiner dans un graphe, avec et sans restriction
-
+ # Steiner Tree Problem with/without restrictions
+   
+  	@author Amine Benslimane    
+  	Master 1 STL,
+  	Sorbonne University,
+  	Mai 2021.
+  
+  GPLv3 Licence, feel free to use this code.
+  
+  
 Dans le cadre du projet final de l'UE CPA, Master 1 STL de Sorbonne Université.
 
 Implémentation de deux versions d'Arbres de Steiner : classique et avec restriction budgétaire dans un graphe.
 
-## Algorithme
-L'algorithme a été inspiré de "L. Kou, G. Markowsky, and L. Berman,
- A fast Algorithm for Steiner Trees, IBM Thomas J. Watson Research Center,
-  Yorktown Heights, New York 10598, USA."
-  
-[A fast Algorithm for Steiner Trees](http://aturing.umcs.maine.edu/~markov/SteinerTrees.pdf)
+## Algorithm
+   Inspired by :
+   	 L. Kou, G. Markowsky, and L. Berman,
+ 		 A fast Algorithm for Steiner Trees, IBM Thomas J. Watson Research Center,
+   [A fast Algorithm for Steiner Trees](http://aturing.umcs.maine.edu/~markov/SteinerTrees.pdf)
 
 ## Usage
+
 Cocher "run" dans build.xml --> Ant build configuration --> targets
 
-L'interface graphique SteinerDiskGraphs s'affiche.
+L'interface graphique SteinerDiskGraphs pops up, enjoy !
 
 
-## Auteur
+## Author
 
 ### Code
-Amine Benslimane,
-Master STL, Sorbonne Université,
+Amine Benslimane, 
+  https://github.com/bnslmn
+  Amine.Benslimane@etu.sorbonne-universite.fr
+  
+Master STL, Sorbonne Université, 
 Mai 2021.
 
 ### Interface graphique
