@@ -25,6 +25,13 @@ Cocher "run" dans build.xml --> Ant build configuration --> targets
 L'interface graphique SteinerDiskGraphs pops up, enjoy !
 
 
+## Results without restrictions
+![steiner](https://user-images.githubusercontent.com/77028316/121823477-bbf50800-cca5-11eb-97a1-3b5d81c4287f.png)
+
+## Results with restrictions
+![steinerBudget](https://user-images.githubusercontent.com/77028316/121823491-ce6f4180-cca5-11eb-8141-73d964c5176f.png)
+
+
 ## Author
 
 ### Code
